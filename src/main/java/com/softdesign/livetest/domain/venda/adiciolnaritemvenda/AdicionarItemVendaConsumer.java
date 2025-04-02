@@ -17,7 +17,7 @@ public class AdicionarItemVendaConsumer {
         this.adicionarItemVendaApplicationService = adicionarItemVendaApplicationService;
     }
 
-    @KafkaListener(topics = "adicionar-item-venda", groupId = "mygroup")
+    @KafkaListener(topics = "adicionar-item-venda", groupId = "livetest-java-spring-group")
     public void consume(AdicionarItemVendaMessage adicionarItemVendaMessage) {
 
         try {

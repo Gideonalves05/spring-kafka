@@ -53,6 +53,8 @@ dependencies {
 	testImplementation 'org.springframework.kafka:spring-kafka-test'
 
 	testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+
+	//testRuntimeOnly 'de.flapdoodle.embed:de.flapdoodle.embed.mongo'
 }
 
 dependencyManagement {

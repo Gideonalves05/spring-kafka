@@ -24,6 +24,7 @@ Observar as tecnologias que serão avaliadas, ter os requisitos instalados antes
 ### Construir artefato
 Executar o comando abaixo para executar testes e gerar o jar executável do Spring boot:
 ```
+ ./gradlew clean build
 ```
 
 ### Executar Docker Compose
