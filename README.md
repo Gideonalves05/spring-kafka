@@ -1,8 +1,5 @@
-# Live Test Softdesign - Java / Spring
+# Java / Spring / mensageria
 
-Este repositório contém o fonte de um projeto onde serão feitas perguntas e solicitadas alteração para avaliar o candidato.
-
-Observar as tecnologias que serão avaliadas, ter os requisitos instalados antes do teste, o executar o docker-compose para ter todas as imagens baixadas na máquina.
 
 ## Tecnologias
 
